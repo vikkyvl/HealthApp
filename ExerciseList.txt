@@ -1,10 +1,11 @@
-1. Running
-2. Walking
-3. Cycling
-4. Swimming
-5. Circuit training
-6. Hiking
-7. Weight machines
-8. Exercise bike
-9. Treadmill
-10. Elliptical trainer
+Running
+Walking
+Cycling
+Swimming
+Circuit training
+Weight machines
+Exercise bike
+Treadmill
+Elliptical trainer
+Table tennis
+Yoga

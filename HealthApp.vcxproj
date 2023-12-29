@@ -131,11 +131,19 @@
     <ClCompile Include="Exercise.cpp" />
     <ClCompile Include="HealthApp.cpp" />
     <ClCompile Include="Menu.cpp" />
+    <ClCompile Include="PhysicalActivityBase.cpp" />
+    <ClCompile Include="SortByDate.cpp" />
+    <ClCompile Include="SortByName.cpp" />
+    <ClCompile Include="SortingStrategy.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ActivityPlans.h" />
     <ClInclude Include="Exercise.h" />
     <ClInclude Include="Menu.h" />
+    <ClInclude Include="PhysicalActivityBase.h" />
+    <ClInclude Include="SortByDate.h" />
+    <ClInclude Include="SortByName.h" />
+    <ClInclude Include="SortingStrategy.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
