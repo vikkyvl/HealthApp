@@ -10,9 +10,14 @@ public:
 
 	void loadInformationFromFile();
 	void clear();
-
-	/*void addNewActivity();*/
-	/*void sortInformation();*/
+	void displayExerciseList();
+	void addNewActivity();
+	void sortInformation();
+	void printExerciseData() const;
+	void deleteExercise();
+	void updateFile();
+	bool askForAnotherActivity();
+	void askForDisplayExerciseList();
 private:
 	const std::string& filename = "ExerciseList.txt";
 	std::string exerciseName;
